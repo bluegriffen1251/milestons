@@ -126,7 +126,7 @@ Tailwind CSS:
 Configured Tailwind CSS for streamlined, utility-first styling.
 
 
-For any queries or contributions, please contact Gautham Ram U M (gauthamram.um@gmail.com).
+For any queries or contributions, please contact Gautham Ram U M (bluegriffen1856@gmail.com).
 
 
 
